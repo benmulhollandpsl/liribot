@@ -1,12 +1,12 @@
-//read and set environment variables
+//environment variables, per instruction 7.
 require("dotenv").config();
 
-// intial variables
+// variables
 var request = require("request");
 var fs = require("fs");
 var keys = require("./keys.js");
 var Spotify = require("node-spotify-api");
-var spotify = new Spotify();
+var spotify = new Spotify(keys.spotify);
 //vars to capture user inputs
 var userOption = proces.argv[2];
 var inputParameter = process.argv[3];
@@ -45,20 +45,20 @@ function showConcertInfo(inputParameter){
       console.log("**********EVENT INFO*************");
         fs.appendFileSync("log.txt", "**********EVENT INFO*************\n");//append to log.txt
         console.log(i);
-        fs.appendFileSync("log.txt, i+"\n");
+        fs.appendFileSync("log.txt", i+"\n");
         console.log("Name of the Venue: " + concerts[i].venue.name);
-        fs.appendFileSync("log.txt", "Name of the Venue: " + concerts[i].venue.name+\"n");
+        fs.appendFileSync("log.txt", "Name of the Venue: " + concerts[i].venue.name+"\n");
         console.log("Venue Location: " + concerts[i].venue.city);
-        fs.appendFileSync("log.txt", "Venue Location: " + concerts[i].venue.city+\"n");
+        fs.appendFileSync("log.txt", "Venue Location: " + concerts[i].venue.city+"\n");
         console.log("Date of the Event: " + concerts[i].datetime);
-        fs.appendFileSync("log.txt", "Date of the Event: " + concerts[i].datetime+\"n");
+        fs.appendFileSync("log.txt", "Date of the Event: " + concerts[i].datetime+"\n");
         console.log("************************");
         fs.appendFileSync("log.txt", "************************"+"\n");
       }
   } else{
   console.log('Error occured.'); 
   }    
-  });}}
+  });}
 
 //fucntion for Spotify
 function showSongInfo(inputParameter) {
@@ -81,7 +81,7 @@ function showSongInfo(inputParameter) {
       console.log("*******SONG INFO*******");
       fs.appendFileSync("log.txt", "*******SONG INFO*******\n");
       console.log(i);//check for syntax after next merge
-      fs.appendFileSync("log.txt", i + ""\n");
+      fs.appendFileSync("log.txt", i + "\n");
       console.log("Song name: " + songs[i].name);
       fs.appendFileSync("log.txt", "song name: " + songs[i].name +"\n");
       console.log("Preview song: " + songs[i].preview_url);
@@ -105,7 +105,7 @@ function showMovieInfo(inputParameter){
         fs.appendFileSync("log.txt", "-----------------------\n");
         console.log("If you haven't watched 'SLC Punk,' then you probably missed on out when pop-punk was a 'thing': https://www.imdb.com/title/tt0133189/");
         fs.appendFileSync("If you haven't watched 'SLC Punk,' then you probably missed on out when pop-punk was a 'thing': https://www.imdb.com/title/tt0133189/" +"\n");
-        console.log("It's on Netflix!");
+        console.log("It's on Amazon Prime");
         fs.appendFileSync("log.txt", "It's on Amazon Prime for rent, or probably at your local library!\n");
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=b3c0b435";

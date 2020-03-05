@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/benmulhollandpsl/liribot/issues"
   },
-  "homepage": "https://github.com/benmulhollandpsl/liribot#readme"
+  "homepage": "https://github.com/benmulhollandpsl/liribot#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
