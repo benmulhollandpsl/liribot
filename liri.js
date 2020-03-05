@@ -63,7 +63,7 @@ function showConcertInfo(inputParameter){
 //fucntion for Spotify
 function showSongInfo(inputParameter) {
   if (inputParameter === undefined) {
-    inputParmeter = "The Decline"; //start default song
+    inputParmeter = "The Sign"; //start default song
   }
   spotify.search(
   {
