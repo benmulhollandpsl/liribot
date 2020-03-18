@@ -1,0 +1,442 @@
+*******SONG INFO*******
+0
+song name: One Man Band
+preview song: https://p.scdn.co/mp3-preview/0f01a3cdc4582c2d244e791bb5bfc8f3ed807256?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Old Dominion
+artist(s): Old Dominion
+*****************************
+*******SONG INFO*******
+1
+song name: One Thing Right
+preview song: https://p.scdn.co/mp3-preview/86a860d6266e657a2a47b7c2266a9a98c1ba564d?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: One Thing Right
+artist(s): Marshmello
+*****************************
+*******SONG INFO*******
+2
+song name: One Way St. (feat. Ab-Soul)
+preview song: null
+album: Chilombo
+artist(s): Jhené Aiko
+*****************************
+*******SONG INFO*******
+3
+song name: One Number Away
+preview song: https://p.scdn.co/mp3-preview/c9f13707182659ce58320adea275513e010debfe?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: This One's for You
+artist(s): Luke Combs
+*****************************
+*******SONG INFO*******
+4
+song name: One Beer (HARDY feat. Lauren Alaina, Devin Dawson)
+preview song: https://p.scdn.co/mp3-preview/128553a711f39f9b01586cbccfbf0807c5ffbdb5?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: HIXTAPE: Vol. 1
+artist(s): HIXTAPE
+*****************************
+*******SONG INFO*******
+5
+song name: One Kiss (with Dua Lipa)
+preview song: https://p.scdn.co/mp3-preview/34b3b95afb8e1d34363f01b194b4a729100d3710?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: One Kiss (with Dua Lipa)
+artist(s): Calvin Harris
+*****************************
+*******SONG INFO*******
+6
+song name: One Dance
+preview song: null
+album: Views
+artist(s): Drake
+*****************************
+*******SONG INFO*******
+7
+song name: One More Year
+preview song: null
+album: The Slow Rush
+artist(s): Tame Impala
+*****************************
+*******SONG INFO*******
+8
+song name: One Day
+preview song: https://p.scdn.co/mp3-preview/41585dd69086f19f62a0c01e51699a0b5ca72ada?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: One Day
+artist(s): Tate McRae
+*****************************
+*******SONG INFO*******
+9
+song name: One Last Time
+preview song: null
+album: My Everything (Deluxe)
+artist(s): Ariana Grande
+*****************************
+*******SONG INFO*******
+10
+song name: One, Two Step (feat. Missy Elliott)
+preview song: https://p.scdn.co/mp3-preview/ebc79c6e835bd18a744307d51c942a749e3ad2ca?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Goodies
+artist(s): Ciara
+*****************************
+*******SONG INFO*******
+11
+song name: One Take
+preview song: https://p.scdn.co/mp3-preview/f8a75c753c87ff5586eefaeb3ceeeafcec2bff67?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: True 2 Myself
+artist(s): Lil Tjay
+*****************************
+*******SONG INFO*******
+12
+song name: One Margarita
+preview song: null
+album: One Margarita
+artist(s): Luke Bryan
+*****************************
+*******SONG INFO*******
+13
+song name: One Night
+preview song: null
+album: Lil Boat
+artist(s): Lil Yachty
+*****************************
+*******SONG INFO*******
+14
+song name: One (Remastered)
+preview song: https://p.scdn.co/mp3-preview/4b448b02d032feffc0ea50533b9885d5fdcf9b6a?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: ...And Justice for All (Remastered Deluxe Box Set)
+artist(s): Metallica
+*****************************
+*******SONG INFO*******
+15
+song name: One
+preview song: null
+album: Divinely Uninspired To A Hellish Extent
+artist(s): Lewis Capaldi
+*****************************
+*******SONG INFO*******
+16
+song name: One Call Away
+preview song: https://p.scdn.co/mp3-preview/0c4bed645d246486c6b16fe0ac48d418259edecf?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Nine Track Mind
+artist(s): Charlie Puth
+*****************************
+*******SONG INFO*******
+17
+song name: One More Hour
+preview song: null
+album: The Slow Rush
+artist(s): Tame Impala
+*****************************
+*******SONG INFO*******
+18
+song name: One Step Closer
+preview song: https://p.scdn.co/mp3-preview/4859175e37ab4336af22f983fec6d2d126a2b1de?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Hybrid Theory (Bonus Edition)
+artist(s): Linkin Park
+*****************************
+*******SONG INFO*******
+19
+song name: One Week
+preview song: https://p.scdn.co/mp3-preview/fa23e220c1b5a7cba9b725f03b7e37ccefe985e4?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Stunt (20th Anniversary Edition)
+artist(s): Barenaked Ladies
+*****************************
+*******SONG INFO*******
+0
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: The Sign
+artist(s): Ace of Base
+*****************************
+*******SONG INFO*******
+1
+song name: The Signal Fire
+preview song: https://p.scdn.co/mp3-preview/5a7c2686426faf51625474fc90383b070607958f?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Atonement
+artist(s): Killswitch Engage
+*****************************
+*******SONG INFO*******
+2
+song name: The Sign of the Southern Cross - 2008 Remaster
+preview song: https://p.scdn.co/mp3-preview/8253e50eb6d3a0a4a59fa0a64c4b05d2426e0324?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Mob Rules (2008 Remaster)
+artist(s): Black Sabbath
+*****************************
+*******SONG INFO*******
+3
+song name: The Sign (feat. Pase Rock)
+preview song: https://p.scdn.co/mp3-preview/3e8b1159ba140a96d433d01a13730813d0cd7deb?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Modal Soul
+artist(s): Nujabes
+*****************************
+*******SONG INFO*******
+4
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/3f4303bf8caefb1dd086557bf218359891bfb2ff?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: The Sign
+artist(s): Aimnu Kolec
+*****************************
+*******SONG INFO*******
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/c2eb7d777eba31c9bd9971061b567acde4d937c4?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: The Sign
+artist(s): R.I.O.
+*****************************
+*******SONG INFO*******
+6
+song name: The Signs
+preview song: https://p.scdn.co/mp3-preview/6d3bf4ffa50a26c7f10fc32ebb7e8f84d5102208?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: The Rawe Sound, Vol 1
+artist(s): Devvon Terrell
+*****************************
+*******SONG INFO*******
+7
+song name: The Sign Of Fire
+preview song: null
+album: Reach The Beach
+artist(s): The Fixx
+*****************************
+*******SONG INFO*******
+8
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/b79d58f7b56e275a50f5ce996294b54233df0298?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Tha 805 Invasion
+artist(s): Cali Life Style
+*****************************
+*******SONG INFO*******
+9
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/70ec6f1dcb16840561dbeec8a789787a235eab87?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Hindsight (Soundtrack Inspired by the TV Series)
+artist(s): CDM Project
+*****************************
+*******SONG INFO*******
+10
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/f49911c59e70591dcb9d9654bd004dfca0d749e9?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: 01050525
+artist(s): Foo Fighters
+*****************************
+*******SONG INFO*******
+11
+song name: The Signal
+preview song: https://p.scdn.co/mp3-preview/eca65aada4c44c3d0349416640d97de063819e21?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: The Signal
+artist(s): BertycoX
+*****************************
+*******SONG INFO*******
+12
+song name: The @ Sign
+preview song: https://p.scdn.co/mp3-preview/1c376e48263a24e7839811f0bc3cef9b7c828c64?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: No Can Defend
+artist(s): Gary Gulman
+*****************************
+*******SONG INFO*******
+13
+song name: The Sign (NYC Deep House Party Crossfit Workout Hits DJ Club Remix)
+preview song: https://p.scdn.co/mp3-preview/de2cfc8f19e0796fa0e93effd9c386c15d45bc42?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Sexy House Party (EDM DJ Mix) [2020 Electronic Dance Music Festival Hits Crossfit Workout Year Mix]
+artist(s): Greg Sletteland
+*****************************
+*******SONG INFO*******
+14
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/45e83ac6fed18d0bcd2a1c257f10499bc41a880a?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Steady the Stars (Instrumentals)
+artist(s): Young Oceans
+*****************************
+*******SONG INFO*******
+15
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/0b8a53ed4b127464a5ea35886cddac27a58603a9?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Funeral Rave
+artist(s): Little Big
+*****************************
+*******SONG INFO*******
+16
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/8b37738ec303f5a42bbd0ac4d6d7a1c5da70cb5f?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Bitter Melon Farm
+artist(s): The Mountain Goats
+*****************************
+*******SONG INFO*******
+17
+song name: The Sign (feat. Natasha Bedingfield)
+preview song: https://p.scdn.co/mp3-preview/00b4411a5f877807378994936a2ab7da2b83af15?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: The Sign (feat. Natasha Bedingfield)
+artist(s): Alex Christensen
+*****************************
+*******SONG INFO*******
+18
+song name: The Signs Were There
+preview song: https://p.scdn.co/mp3-preview/6061cbbe01bfe6005ba0f97dc73c8e540d99e6eb?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Smooth Saxophone Jazz
+artist(s): Saxophone Jazz
+*****************************
+*******SONG INFO*******
+19
+song name: The Signs
+preview song: https://p.scdn.co/mp3-preview/bae1f5b772044a9d8f1719a9afae2aa5ac7d89b2?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: VOLUME 1
+artist(s): Tash
+*****************************
+**********EVENT INFO*************
+0
+Name of the Venue: 7TH ST ENTRY
+Venue Location: Minneapolis
+Date of the Event: 2020-03-27T21:00:00
+************************
+**********EVENT INFO*************
+1
+Name of the Venue: Union Pool
+Venue Location: New York
+Date of the Event: 2020-04-11T20:00:00
+************************
+**********MOVIE INFO*********
+Title: Ghostbusters
+Release Year: 1984
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 97%
+Country of Production: USA
+Language: English
+Plot: Three former parapsychology professors set up shop as a unique ghost removal service.
+Actors: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
+*****************************
+*******SONG INFO*******
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+*******SONG INFO*******
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+*******SONG INFO*******
+2
+song name: I Want It That Way / Bye Bye Bye
+preview song: https://p.scdn.co/mp3-preview/82b2ff786fedce4e1a314d69f15ff5c705049ef5?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: I Want It That Way / Bye Bye Bye
+artist(s): Anthem Lights
+*****************************
+*******SONG INFO*******
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+*******SONG INFO*******
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+*******SONG INFO*******
+5
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+*******SONG INFO*******
+6
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+*******SONG INFO*******
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/9c9217848c811676226a09cf721f27f102588521?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Pop Piano Covers
+artist(s): Ryan Tenner
+*****************************
+*******SONG INFO*******
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+*******SONG INFO*******
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+*******SONG INFO*******
+10
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+*******SONG INFO*******
+11
+song name: I Want It That Way - Manuel's Southbeat Mix
+preview song: null
+album: I Want It That Way (The Remixes)
+artist(s): Manuel Costa
+*****************************
+*******SONG INFO*******
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+*******SONG INFO*******
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/6df704bcaee02f82fefacbfaaca2ab8858119947?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: & Juliet (Original London Cast Recording)
+artist(s): Cassidy Janson
+*****************************
+*******SONG INFO*******
+14
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+*******SONG INFO*******
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+*******SONG INFO*******
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+*******SONG INFO*******
+17
+song name: I Want It That Way - Reprise
+preview song: https://p.scdn.co/mp3-preview/a09ef57f7e6bfb7de66cb5c3b6d68d215f388d45?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: & Juliet (Original London Cast Recording)
+artist(s): Oliver Tompsett
+*****************************
+*******SONG INFO*******
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: #90s Update
+artist(s): #90s Update
+*****************************
+*******SONG INFO*******
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=ee1d612f8c0e482f8fb7309ee2a1a0cc
+album: I Want It That Way
+artist(s): Landon Austin & Julia Sheer
+*****************************

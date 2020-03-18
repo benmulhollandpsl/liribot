@@ -1,18 +1,26 @@
 //environment variables, per instruction 7.
 require("dotenv").config();
-
-// variables
 var request = require("request");
 var fs = require("fs");
-var keys = require("./keys.js");
 var Spotify = require("node-spotify-api");
+var keys = require("./keys.js");
+
+// variables
+// vars to capture user inputs
+var userOptionVar = process.argv[2];
+var inputParameterVar = process.argv[3];
 var spotify = new Spotify(keys.spotify);
-//vars to capture user inputs
-var userOption = proces.argv[2];
-var inputParameter = process.argv[3];
+
+
 
 //initiate function 
-UserInputs(userOption, inputParameter);
+// make sure to call function that you want to run
+// user inputs starts a chain of events based on the user inputs
+// obtained through process.argv
+
+UserInputs(userOptionVar, inputParameterVar);
+
+
 
 //functions
 function UserInputs (userOption, inputParameter){
@@ -60,15 +68,19 @@ function showConcertInfo(inputParameter){
   }    
   });}
 
+
+
+
+
 //fucntion for Spotify
 function showSongInfo(inputParameter) {
   if (inputParameter === undefined) {
-    inputParmeter = "The Sign"; //start default song
+    inputParameter = "The Sign"; //start default song
   }
   spotify.search(
   {
     type: "track",
-    query: inputParamter,
+    query: inputParameter,
   },
   function (err, data) {
     if (err) {
@@ -96,6 +108,9 @@ function showSongInfo(inputParameter) {
   }
   );
 };
+
+
+
 
 //function for Movie info: OMDB
 function showMovieInfo(inputParameter){
@@ -140,7 +155,7 @@ function showMovieInfo(inputParameter){
 });}
 
 //function to get proper Rotten Tomatoes Rating
-function getRottenTomatoesRatingObject (data) {
+function getRottenTomatoesRatingObject (data) {    //i need to look at this before doing again.
     return data.Ratings.find(function (item) {
        return item.Source === "Rotten Tomatoes";
     });
