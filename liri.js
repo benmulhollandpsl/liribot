@@ -162,7 +162,7 @@ function getRottenTomatoesRatingObject (data) {    //i need to look at this befo
   }
   
   function getRottenTomatoesRatingValue (data) {
-    return getRottenTomatoesRatingObject(data).Value;
+    return getRottenTomatoesRatingObject(data).value;
   }
 
 //function for reading out of random.txt file  
