@@ -1,31 +1,34 @@
 # liribot
 LIRI is a command line node app that takes in parameters and gives back data
+Languae Interpretation and Recognition Interface.  Looking for concert date information, when a movie came out, or just information about a favorite song all in one quick interface without other distractions helps narrow in on the information the user is trying to get.
 
+The four commands with specific paramters return information requested.  These results are saved to log.txt
 
-# 
+# Technologies Used 
+Javascript; NodeJS; Node packages: request, moment, dotenv
+APIs used: Bands in Town, OMDB, Spotify
+Git, GitHub.
 
-### Overview
-
-Liri uses 
-
-### Before You Begin
+### Steps
 
 1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-2. Make a new GitHub repository called liri-node-app and clone it to your computer.
+2. Open your terminal and navigate to the folder containing the liri.js file
 
-3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.
+3. type: npm i
+  a) this is in case you already have not.
 
-   * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
+examples:
+type: node liri.js spotify-this-song ______
+  a) the blank is the title of the song you are searching.  capitalization and spaces won't change the results.
+  b) this will return a result from the spotify 
+  b) if no song is selected we'll go to our default song.
 
-   * [Axios](https://www.npmjs.com/package/axios)
-
-     * You'll use Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
-
-   * [Moment](https://www.npmjs.com/package/moment)
-
-   * [DotEnv](https://www.npmjs.com/package/dotenv)
+type: node liri.js movie-this ______
+  a) If you type Matrix (for exaple) for the blank it will return information on the Matrix from the OMDB database
    
+
+
 ## Submission Guide
 
 Create and use a standard GitHub repository. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. This time you'll need to include screenshots, a GIF, and/or a video showing us that you have the app working with no bugs. You can include these screenshots/GIFs or a link to a video in a `README.md` file.
